@@ -28,6 +28,11 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>org.talend.dataquality.parser</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>dom4j-1.6.1</artifactId>
       <version>6.0.0</version>
     </dependency>
