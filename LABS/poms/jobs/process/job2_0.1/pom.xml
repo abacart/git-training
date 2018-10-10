@@ -62,6 +62,16 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>slf4j-log4j12-1.7.2</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>talend-codegen-utils</artifactId>
+      <version>0.20.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>talend_file_enhanced_20070724</artifactId>
       <version>6.0.0</version>
     </dependency>
